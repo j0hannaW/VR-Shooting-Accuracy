@@ -1,0 +1,278 @@
+Time; Event Name; Button; Feedback; Target Path; Target Distance; Target Speed; Accuracy
+5265.925; Study Start
+5275.463; Before Click; Trigger; Practice; Static; 3.08; 0; 97.49
+5275.463; Button Pressed; Trigger; Practice; Static; 3.08; 0; 97.49
+5275.463; Target Shot
+5275.963; Target destroyed
+5276.966; Target respawned
+5279.165; Before Click; Trigger; Practice; Static; 3.09; 0; 90.16
+5279.165; Button Pressed; Trigger; Practice; Static; 3.09; 0; 90.16
+5279.165; Target Shot
+5279.667; Target destroyed
+5280.669; Target respawned
+5283.995; Before Click; Trigger; Practice; Static; 3.08; 0; 97.64
+5283.995; Button Pressed; Trigger; Practice; Static; 3.08; 0; 97.64
+5283.995; Target Shot
+5284.496; Target destroyed
+5285.499; Target respawned
+5292.142; Before Click; Trigger; Practice; Static; 3.09; 0; 95.01
+5292.142; Button Pressed; Trigger; Practice; Static; 3.09; 0; 95.01
+5292.142; Target Shot
+5292.643; Target destroyed
+5293.645; Target respawned
+5295.733; Before Click; Trigger; Practice; Static; 3.09; 0; 92.36
+5295.733; Button Pressed; Trigger; Practice; Static; 3.09; 0; 92.36
+5295.733; Target Shot
+5296.234; Target destroyed
+5297.237; Target respawned
+5300.188; Before Click; Trigger; Practice; Static; 3.09; 0; 98.66
+5300.188; Button Pressed; Trigger; Practice; Static; 3.09; 0; 98.66
+5300.188; Target Shot
+5300.689; Target destroyed
+5301.692; Target respawned
+5302.750; Before Click; Trigger; Practice; Static; 3.09; 0; 98.44
+5302.750; Button Pressed; Trigger; Practice; Static; 3.09; 0; 98.44
+5302.750; Target Shot
+5303.251; Target destroyed
+5304.254; Target respawned
+5304.852; Before Click; Trigger; Practice; Static; 3.09; 0; 96.09
+5304.852; Button Pressed; Trigger; Practice; Static; 3.09; 0; 96.09
+5304.852; Target Shot
+5305.354; Target destroyed
+5306.356; Target respawned
+5307.831; Before Click; Trigger; Practice; Static; 3.09; 0; 96.76
+5307.831; Button Pressed; Trigger; Practice; Static; 3.09; 0; 96.76
+5307.831; Target Shot
+5308.333; Target destroyed
+5309.335; Target respawned
+5310.644; Before Click; Trigger; Practice; Static; 3.09; 0; 98.71
+5310.644; Button Pressed; Trigger; Practice; Static; 3.09; 0; 98.71
+5310.644; Target Shot
+5311.145; Target destroyed
+5312.147; Target respawned
+5325.346; Before Click; Trigger; audio; Square; 6.16; 1; 26.22
+5325.346; Button Pressed; Trigger; audio; Square; 6.16; 1; 26.22
+5325.346; Target Shot
+5325.847; Target destroyed
+5326.849; Target respawned
+5342.066; Before Click; Trigger; audio; Circle; 9.03; 2; 35.18
+5342.066; Button Pressed; Trigger; audio; Circle; 9.03; 2; 35.18
+5342.066; Target Shot
+5342.567; Target destroyed
+5343.570; Target respawned
+5351.715; Before Click; Trigger; audio; Line; 5.43; 0.5; 87.25
+5351.715; Button Pressed; Trigger; audio; Line; 5.43; 0.5; 87.25
+5351.715; Target Shot
+5352.216; Target destroyed
+5353.218; Target respawned
+5359.177; Before Click; Trigger; audio; Static; 3.09; 0; 94.46
+5359.177; Button Pressed; Trigger; audio; Static; 3.09; 0; 94.46
+5359.177; Target Shot
+5359.678; Target destroyed
+5360.681; Target respawned
+5365.526; Before Click; Trigger; audio; Static; 3.09; 0; 93.45
+5365.526; Button Pressed; Trigger; audio; Static; 3.09; 0; 93.45
+5365.526; Target Shot
+5366.027; Target destroyed
+5367.029; Target respawned
+5452.352; Before Click; Trigger; visual + haptic; Line; 5.40; 0.5; 89.91
+5452.352; Button Pressed; Trigger; visual + haptic; Line; 5.40; 0.5; 89.91
+5452.352; Target Shot
+5452.853; Target destroyed
+5453.856; Target respawned
+5458.576; Before Click; Trigger; visual + haptic; Static; 3.92; 0; 96.60
+5458.576; Button Pressed; Trigger; visual + haptic; Static; 3.92; 0; 96.60
+5458.576; Target Shot
+5459.077; Target destroyed
+5460.080; Target respawned
+5491.140; Before Click; Trigger; visual + haptic; Loop; 9.94; 1.5; 51.00
+5491.140; Button Pressed; Trigger; visual + haptic; Loop; 9.94; 1.5; 51.00
+5491.140; Target Shot
+5491.641; Target destroyed
+5492.644; Target respawned
+5513.568; Before Click; Trigger; visual + haptic; Circle; 9.92; 2; 76.00
+5513.568; Button Pressed; Trigger; visual + haptic; Circle; 9.92; 2; 76.00
+5513.568; Target Shot
+5514.069; Target destroyed
+5515.072; Target respawned
+5524.720; Before Click; Trigger; visual + haptic; Square; 7.76; 1; 55.45
+5524.720; Button Pressed; Trigger; visual + haptic; Square; 7.76; 1; 55.45
+5524.720; Target Shot
+5525.221; Target destroyed
+5526.224; Target respawned
+5669.066; Before Click; Trigger; visual + haptic + audio; Line; 5.43; -0.5; 58.92
+5669.066; Button Pressed; Trigger; visual + haptic + audio; Line; 5.43; -0.5; 58.92
+5669.066; Target Shot
+5669.568; Target destroyed
+5670.571; Target respawned
+5679.036; Before Click; Trigger; visual + haptic + audio; Square; 8.31; 1; 55.47
+5679.036; Button Pressed; Trigger; visual + haptic + audio; Square; 8.31; 1; 55.47
+5679.036; Target Shot
+5679.537; Target destroyed
+5680.539; Target respawned
+5701.061; Before Click; Trigger; visual + haptic + audio; Loop; 7.97; 1.5; 54.74
+5701.061; Button Pressed; Trigger; visual + haptic + audio; Loop; 7.97; 1.5; 54.74
+5701.061; Target Shot
+5701.562; Target destroyed
+5702.564; Target respawned
+5710.889; Before Click; Trigger; visual + haptic + audio; Static; 3.83; 0; 94.74
+5710.889; Button Pressed; Trigger; visual + haptic + audio; Static; 3.83; 0; 94.74
+5710.889; Target Shot
+5711.391; Target destroyed
+5712.393; Target respawned
+5735.532; Before Click; Trigger; visual + haptic + audio; Circle; 10.01; 2; 35.12
+5735.532; Button Pressed; Trigger; visual + haptic + audio; Circle; 10.01; 2; 35.12
+5735.532; Target Shot
+5736.033; Target destroyed
+5737.036; Target respawned
+5870.397; Before Click; Trigger; visual; Square; 7.89; 1; 43.70
+5870.397; Button Pressed; Trigger; visual; Square; 7.89; 1; 55.70
+5870.397; Target Shot
+5870.899; Target destroyed
+5871.901; Target respawned
+5875.201; Before Click; Trigger; visual; Loop; 8.58; 1.5; 55.70
+5875.201; Button Pressed; Trigger; visual; Loop; 8.58; 1.5; 83.62
+5875.201; Target Shot
+5875.702; Target destroyed
+5876.705; Target respawned
+5880.324; Before Click; Trigger; visual; Circle; 11.22; 2; 83.62
+5880.324; Button Pressed; Trigger; visual; Circle; 11.22; 2; 42.14
+5880.324; Target Shot
+5880.825; Target destroyed
+5881.828; Target respawned
+5884.055; Before Click; Trigger; visual; Line; 5.60; 0.5; 42.14
+5884.055; Button Pressed; Trigger; visual; Line; 5.60; 0.5; 91.11
+5884.055; Target Shot
+5884.556; Target destroyed
+5885.559; Target respawned
+5890.696; Before Click; Trigger; visual; Static; 3.83; 0; 91.11
+5890.696; Button Pressed; Trigger; visual; Static; 3.83; 0; 96.24
+5890.696; Target Shot
+5891.197; Target destroyed
+5892.200; Target respawned
+6039.721; Before Click; X; haptic; Static; 3.83; 0; 94.75
+6039.721; Button Pressed; X; haptic; Static; 3.83; 0; 94.75
+6039.721; Target Shot
+6040.222; Target destroyed
+6041.224; Target respawned
+6053.796; Before Click; X; haptic; Circle; 9.80; 2; 39.70
+6053.796; Button Pressed; X; haptic; Circle; 9.80; 2; 39.70
+6053.796; Target Shot
+6054.297; Target destroyed
+6055.299; Target respawned
+6061.049; Before Click; X; haptic; Loop; 8.61; 1.5; 44.25
+6061.049; Button Pressed; X; haptic; Loop; 8.61; 1.5; 44.25
+6061.049; Target Shot
+6061.550; Target destroyed
+6062.553; Target respawned
+6070.294; Before Click; X; haptic; Line; 5.35; -0.5; 71.68
+6070.294; Button Pressed; X; haptic; Line; 5.35; -0.5; 71.68
+6070.294; Target Shot
+6070.795; Target destroyed
+6071.797; Target respawned
+6079.413; Before Click; X; haptic; Square; 7.67; 1; 64.29
+6079.413; Button Pressed; X; haptic; Square; 7.67; 1; 64.29
+6079.413; Target Shot
+6079.914; Target destroyed
+6080.917; Target respawned
+6197.697; Before Click; X; audio; Line; 5.61; -0.5; 74.72
+6197.697; Button Pressed; X; audio; Line; 5.61; -0.5; 74.72
+6197.697; Target Shot
+6198.198; Target destroyed
+6199.201; Target respawned
+6236.512; Before Click; X; audio; Circle; 10.14; 2; 35.06
+6236.512; Button Pressed; X; audio; Circle; 10.14; 2; 35.06
+6236.512; Target Shot
+6237.013; Target destroyed
+6238.016; Target respawned
+6242.861; Before Click; X; audio; Loop; 8.47; 1.5; 84.66
+6242.861; Button Pressed; X; audio; Loop; 8.47; 1.5; 84.66
+6242.861; Target Shot
+6243.362; Target destroyed
+6244.365; Target respawned
+6250.462; Before Click; X; audio; Static; 3.87; 0; 92.95
+6250.462; Button Pressed; X; audio; Static; 3.87; 0; 92.95
+6250.462; Target Shot
+6250.964; Target destroyed
+6251.966; Target respawned
+6284.447; Before Click; X; audio; Square; 6.73; 1; 83.47
+6284.447; Button Pressed; X; audio; Square; 6.73; 1; 83.47
+6284.447; Target Shot
+6284.948; Target destroyed
+6285.951; Target respawned
+6412.477; Before Click; X; visual + haptic; Circle; 11.23; 2; 45.92
+6412.477; Button Pressed; X; visual + haptic; Circle; 11.23; 2; 45.92
+6412.477; Target Shot
+6412.977; Target destroyed
+6413.980; Target respawned
+6419.451; Before Click; X; visual + haptic; Line; 5.58; -0.5; 83.28
+6419.451; Button Pressed; X; visual + haptic; Line; 5.58; -0.5; 83.28
+6419.451; Target Shot
+6419.952; Target destroyed
+6420.955; Target respawned
+6423.461; Before Click; X; visual + haptic; Static; 3.84; 0; 95.21
+6423.461; Button Pressed; X; visual + haptic; Static; 3.84; 0; 95.21
+6423.461; Target Shot
+6423.962; Target destroyed
+6424.965; Target respawned
+6432.357; Before Click; X; visual + haptic; Loop; 8.37; 1.5; 39.49
+6432.357; Button Pressed; X; visual + haptic; Loop; 8.37; 1.5; 39.49
+6432.357; Target Shot
+6432.859; Target destroyed
+6433.861; Target respawned
+6440.711; Before Click; X; visual + haptic; Square; 7.49; 1; 63.57
+6440.711; Button Pressed; X; visual + haptic; Square; 7.49; 1; 63.57
+6440.711; Target Shot
+6441.212; Target destroyed
+6442.215; Target respawned
+6546.214; Before Click; X; visual + haptic + audio; Static; 3.82; 0; 99.28
+6546.214; Button Pressed; X; visual + haptic + audio; Static; 3.82; 0; 99.28
+6546.214; Target Shot
+6546.715; Target destroyed
+6547.718; Target respawned
+6590.626; Before Click; X; visual + haptic + audio; Circle; 10.05; 2; 66.94
+6590.626; Button Pressed; X; visual + haptic + audio; Circle; 10.05; 2; 66.94
+6590.626; Target Shot
+6591.127; Target destroyed
+6592.130; Target respawned
+6597.379; Before Click; X; visual + haptic + audio; Loop; 8.38; 1.5; 44.13
+6597.379; Button Pressed; X; visual + haptic + audio; Loop; 8.38; 1.5; 44.13
+6597.379; Target Shot
+6597.880; Target destroyed
+6598.882; Target respawned
+6604.577; Before Click; X; visual + haptic + audio; Line; 5.48; -0.5; 79.24
+6604.577; Button Pressed; X; visual + haptic + audio; Line; 5.48; -0.5; 79.24
+6604.577; Target Shot
+6605.077; Target destroyed
+6606.080; Target respawned
+6610.452; Before Click; X; visual + haptic + audio; Square; 7.60; 1; 66.68
+6610.452; Button Pressed; X; visual + haptic + audio; Square; 7.60; 1; 66.68
+6610.452; Target Shot
+6610.953; Target destroyed
+6611.956; Target respawned
+6703.717; Before Click; X; visual; Static; 3.83; 0; 91.85
+6703.717; Button Pressed; X; visual; Static; 3.83; 0; 96.30
+6703.717; Target Shot
+6704.219; Target destroyed
+6705.221; Target respawned
+6711.138; Before Click; X; visual; Circle; 11.19; 2; 96.30
+6711.138; Button Pressed; X; visual; Circle; 11.19; 2; 34.22
+6711.138; Target Shot
+6711.639; Target destroyed
+6712.642; Target respawned
+6714.688; Before Click; X; visual; Line; 5.58; 0.5; 34.22
+6714.688; Button Pressed; X; visual; Line; 5.58; 0.5; 86.63
+6714.688; Target Shot
+6715.189; Target destroyed
+6716.192; Target respawned
+6719.603; Before Click; X; visual; Square; 7.65; 1; 86.63
+6719.603; Button Pressed; X; visual; Square; 7.65; 1; 71.81
+6719.603; Target Shot
+6720.104; Target destroyed
+6721.106; Target respawned
+6731.242; Before Click; X; visual; Loop; 10.10; 1.5; 71.81
+6731.242; Button Pressed; X; visual; Loop; 10.10; 1.5; 78.02
+6731.242; Target Shot
+6731.743; Target destroyed
+6732.745; Study End
+6732.745; Target respawned
